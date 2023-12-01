@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import '../components/page_404.dart';
-import '../constants/app_route_contants.dart';
-import '../../screens/test/view/test_view.dart';
 
 import '../../screens/splash/splash_view.dart';
+import '../../screens/test/view/test_view.dart';
+import '../components/page_404.dart';
+import '../constants/app_route_contants.dart';
 
 class NavigationRoute {
   NavigationRoute._init();
